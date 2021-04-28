@@ -6,7 +6,7 @@ I am a technology and development enthusiast
 +12 Years of experience in IT
 +5 Years of experience with Traditional Process Automation, Robotic Process Automation (RPA), Artificial intelligence (AI), Machine Learning, Data Analytics and Data Visualization.
 
-Experience in the sectors:
+#Experience in the sectors:
 - Technology
 - Professional services
 - Financial services
@@ -16,3 +16,4 @@ Experience in the sectors:
 - Shipping, Transport & Ports
 - Utilities
 
+#Skills
