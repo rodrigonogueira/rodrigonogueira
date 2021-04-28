@@ -17,3 +17,18 @@ I am a technology and development enthusiast
 - Utilities
 
 ## Skills
+- RPA(Power Automate, Automation Anywhere, UiPath, BluePrism)
+- Web(HTML, CSS, JQuery)
+- Javascript(ReactJS, NodeJS, AngularJS, VueJS)
+- C#, VB, .Net
+- Java
+- PHP
+- Ruby on Rails
+- Python, Tensorflow, pyTorch, Pandas, NLP
+- Docker, Kubernetes, Terraform
+- Azure DevOps, Jenkins, GitLab
+- GCP, Azure, Aws
+- Databases(MSQL, MySQL, PostgreSQL, CosmoDB, MongoDB)
+- PowerBI, Tableau, Alteryx
+- Scrum, Agile
+- Google ChatBots, Microsoft Power Virtual Agents
