@@ -32,3 +32,14 @@ I am a technology and development enthusiast
 - PowerBI, Tableau, Alteryx
 - Scrum, Agile
 - Google ChatBots, Microsoft Power Virtual Agents
+
+## Learning:
+
+I am currently learning more about agnostic cloud technologies and even more about CI / CD and other ways to automate and improve the Team's pace of development. Although I already have a good knowledge of Azure DevOps, GitLab and Jenkins, I continue to delve into these and other technologies.
+
+In addition, I'm focusing a lot on learning more about cybersecurity in order to be even more active with my security team. I am focusing a lot on Security Vaults and similar technologies (CyberArk, Hashicorp Vault and etc).
+
+## Hobbies:
+
+:books: Books and Mangás
+
