@@ -42,8 +42,8 @@ In addition, I'm focusing a lot on learning more about cybersecurity in order to
 ## Hobbies:
 
 - :books:  Books and Mangás
-- :car:  Formula 1 and Driving
+- :car:  Formula 1 and Drive
 - :books:  Books and Mangás
-- :book:  Studying new things like Tech or Languages
-
+- :book:  Study new things like Tech or Languages
+- :joystick: Play Games
 
