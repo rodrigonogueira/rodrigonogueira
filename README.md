@@ -46,3 +46,13 @@ In addition, I'm focusing a lot on learning more about cybersecurity in order to
 - :book:  Study new things like Tech or Languages
 - :joystick: Play Games
 
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rodrigonogueira&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="rodrigonogueira" /></a>
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigonogueira&theme=dracula&hide_border=true" alt="rodrigonogueira" /></a>
+</p>
+
+---
