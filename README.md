@@ -17,17 +17,17 @@ I am a technology and development enthusiast
 - Utilities
 
 ## Skills
+- Typescript/Javascript(ReactJS, NodeJS, AngularJS, VueJS)
+- Docker, Kubernetes, Terraform
+- Azure DevOps, Jenkins, GitLab
+- GCP, Azure, Aws
 - RPA(Power Automate, Automation Anywhere, UiPath, BluePrism)
 - C#, VB, .Net
-- Typescript/Javascript(ReactJS, NodeJS, AngularJS, VueJS)
 - Java
 - PHP
 - Ruby on Rails
 - Web(HTML, CSS, JQuery)
 - Python, Tensorflow, pyTorch, Pandas, NLP
-- Docker, Kubernetes, Terraform
-- Azure DevOps, Jenkins, GitLab
-- GCP, Azure, Aws
 - Databases(MSQL, MySQL, PostgreSQL, CosmoDB, MongoDB)
 - PowerBI, Tableau, Alteryx
 - Scrum, Agile
