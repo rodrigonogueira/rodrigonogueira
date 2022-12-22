@@ -22,7 +22,7 @@ I am a technology and development enthusiast
 - Azure DevOps, Jenkins, GitLab
 - GCP, Azure, Aws
 - RPA(Power Automate, Automation Anywhere, UiPath, BluePrism)
-- C#, VB, .Net
+- C#, VB, .Net, ASP
 - Java
 - PHP
 - Ruby on Rails
