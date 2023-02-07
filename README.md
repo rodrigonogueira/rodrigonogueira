@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am Rodrigo! I'm a IT Senior Manager in one of BIG4, managing DevOps, Intelligent Automation, Data Analytics, CyberSecurity teams. I have worked in 2 multinationals within the CoE. I have a lot of experience in managing local/remote teams in other territories (United Kingdom, Brazil, India, Costa Rica, Argentina, Bulgaria, United States). In addition, I also have experience in managing and providing Career Coaching for local teams. I enjoy sharing my knowledge to assist the growth of the teams I have managed across the globe, delivering more robust and efficient solutions for both Software Engineering and Intelligent Automations.
+I am a Tech Lead and career coach now leading Tech teams in Tech Connect. I've worked at two global corporations. I have extensive expertise managing remote teams in various countries.(Brazil, Costa Rica, Argentina, United Kingdom, India, Bulgaria, United States). 
 
-I am a technology and development enthusiast 
-+13 Years of experience in IT
-+5 Years of experience with Traditional Process Automation, Robotic Process Automation (RPA), Artificial intelligence (AI), Machine Learning, Data Analytics and Data Visualization.
+I'm a self-taught technologist and a Teacher. I've worked in IT for over 14 years and I'm always sharing my knowledge with people all around the world in order to develop better products and make better software engineering decisions.
 
 ## Experience in the sectors:
 - Technology
@@ -22,7 +20,7 @@ I am a technology and development enthusiast
 - Azure DevOps, Jenkins, GitLab
 - GCP, Azure, Aws
 - RPA(Power Automate, Automation Anywhere, UiPath, BluePrism)
-- C#, VB, .Net, ASP
+- C#, VB, .Net core, .Net Framework, ASP
 - Java
 - PHP
 - Ruby on Rails
